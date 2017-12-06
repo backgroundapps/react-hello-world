@@ -11,7 +11,7 @@ class App extends Component {
     this.state = {
 
       greeting: "Hello World!",
-      parentMessage: "Hello Alice!!"
+      parentMessage: "Hello Alice!"
 
     }
     
